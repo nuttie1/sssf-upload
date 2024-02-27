@@ -12,15 +12,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/nuttie1/sssf-auth.git"
+    "url": "git+https://github.com/nuttie1/sssf-upload.git"
   },
   "keywords": [],
-  "author": "",
+  "uploador": "",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/nuttie1/sssf-auth/issues"
+    "url": "https://github.com/nuttie1/sssf-upload/issues"
   },
-  "homepage": "https://github.com/nuttie1/sssf-auth#readme",
+  "homepage": "https://github.com/nuttie1/sssf-upload#readme",
   "dependencies": {
     "bcryptjs": "^2.4.3",
     "cors": "^2.8.5",
