@@ -1,5 +1,5 @@
 {
-  "name": "sssf-auth-server",
+  "name": "sssf-auth",
   "version": "1.0.0",
   "description": "",
   "main": "src/index.ts",
@@ -12,15 +12,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/ilkkamtk/SSSF-auth-server.git"
+    "url": "git+https://github.com/nuttie1/sssf-auth.git"
   },
   "keywords": [],
   "author": "",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/ilkkamtk/SSSF-auth-server/issues"
+    "url": "https://github.com/nuttie1/sssf-auth/issues"
   },
-  "homepage": "https://github.com/ilkkamtk/SSSF-auth-server#readme",
+  "homepage": "https://github.com/nuttie1/sssf-auth#readme",
   "dependencies": {
     "bcryptjs": "^2.4.3",
     "cors": "^2.8.5",
